@@ -18,7 +18,7 @@ take notes
 npm install
 
 ## Usage: 
-(https://dashboard.heroku.com/apps/jpc-note-taker)
+(https://jpc-note-taker.herokuapp.com/)
 
 
 ## License: MIT
