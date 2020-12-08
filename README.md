@@ -35,6 +35,8 @@ https://jpc-note-taker.herokuapp.com/
 ## Testing: 
 npm test
 
+![](images/Screen%20Shot%202020-12-07%20at%208.29.56%20PM.png)
+
 ## Questions? I can be contacted with the links below:   
 * email: infamous213@gmail.com
 * gitHub: [gitHub](https://github.com/JacobCounts)
